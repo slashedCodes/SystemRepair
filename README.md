@@ -1,5 +1,4 @@
 # SystemRepair
-Cool batch utility
 
 
 Youre Windows version is completely fucked and you dont know what to do and dont know what the fuck is powershell?
