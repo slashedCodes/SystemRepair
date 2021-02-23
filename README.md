@@ -16,7 +16,8 @@ Automatically recgonizes windows version starting from vista and gives you 2 lin
 
 If you are one, then heres a hyperlink i guess.
 
-(https://github.com/alexfeed1990/SystemRepair/releases "Releases")
+
+[Releases page](https://github.com/alexfeed1990/SystemRepair/releases "Releases")
 
 # And what now?
 
