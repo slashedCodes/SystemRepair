@@ -5,7 +5,7 @@ Youre Windows version is completely fucked and you dont know what to do and dont
 
 Well dont worry no more since we got SystemRepair!
 
-Probably the most scuffed reapir utility written in you guessed it. Batch.
+Probably the most scuffed repair utility written in you guessed it. Batch.
 
 But like it works so idk give it a try
 
