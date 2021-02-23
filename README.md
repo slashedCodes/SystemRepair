@@ -12,15 +12,6 @@ But like it works so idk give it a try
 
 Automatically recgonizes windows version starting from vista and gives you 2 lines of information about youre system!
 
-# Yea please dont repost this
-
-Like seriously i worked a SHIT ton on this.
-
-Dont repost a unmodified version of SystemRepair.
-
-
-Just please.
-
 # And what now?
 
 Well thats pretty much it. 
@@ -38,3 +29,7 @@ And yea enjoy this crappy thing.
 
 
 Like what did you expect?
+
+# Conclusion
+
+Cool program
