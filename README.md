@@ -12,12 +12,8 @@ But like it works so idk give it a try
 
 Automatically recgonizes windows version starting from vista and gives you 2 lines of information about youre system!
 
-#### Dont be a noob, go to the releases tab.
 
-If you are one, then heres a hyperlink i guess.
-
-
-[Releases page](https://github.com/alexfeed1990/SystemRepair/releases "Releases")
+ok heres the releases [Releases page](https://github.com/alexfeed1990/SystemRepair/releases "Releases")
 
 # And what now?
 
