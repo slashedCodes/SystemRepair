@@ -1,33 +1,11 @@
 # SystemRepair
 
-Your Windows version is completely destroyed and you don't know what to do and don't know what is powershell?
+A tiny "Repair" tool for Windows 10.
 
-Well don't worry since we got SystemRepair!
+# Downloads
 
-Probably the most scuffed repair utility written in you guessed it. Batch.
+Head over to the [Releases Page]() and snag the .bat file.
 
-But it works so I don't care, give it a try!
+# Other info
 
-Automatically recgonizes your windows version starting from vista and gives you 2 lines of information about your system!
-
-ok heres the releases [Releases page](https://github.com/alexfeed1990/SystemRepair/releases "Releases")
-
-# What now?
-
-Well that's pretty much it. 
-
-You have some shortcuts and that stuff.
-
-Just download the utility.
-
-Run it as admin (or else you will be forced to)
-
-And enjoy this crappy thing.
-
-# Every program shortcut is ripped directly from MSConfig
-
-Like what did you expect?
-
-# Conclusion
-
-Cool program
+old ass repo, please dont complain
